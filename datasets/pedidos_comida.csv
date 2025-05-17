@@ -1,0 +1,101 @@
+nome_usuario,pedido,categoria,preco,meio_pedido,data_pedido,restaurante
+Heitor Rezende,Sushi 3,Sushi,20.31,App,2025-05-08 09:19:39,Marmitaria Boa Vida
+Sr. Kaique Vieira,Sushi 4,Sushi,93.85,App,2025-05-03 20:54:25,Cantina do Chef
+Vitor Gabriel Rodrigues,Salada 5,Salada,87.49,App,2025-04-03 22:29:36,Marmitaria Boa Vida
+Lucca Moreira,Pizza 5,Pizza,36.94,Loja física,2025-05-08 09:54:52,Pizza Express
+Stephany Duarte,Pizza 5,Pizza,60.63,Site,2025-05-08 00:09:47,Pizza Express
+Maria Vitória Porto,Salada 5,Salada,20.49,Loja física,2025-04-17 00:08:04,Temaki Brasil
+Alexandre da Costa,Pizza 2,Pizza,70.93,Telefone,2025-01-16 21:04:13,Burger Mania
+Vicente Souza,Salada 2,Salada,39.81,Telefone,2025-04-17 09:48:01,Marmitaria Boa Vida
+Juliana Farias,Salada 4,Salada,62.25,Loja física,2025-04-11 08:17:25,Pizza Express
+Elisa Santos,Pizza 5,Pizza,46.73,Telefone,2025-04-21 22:36:32,Temaki Brasil
+Cauã Rezende,Marmita 1,Marmita,18.92,Telefone,2025-04-26 16:48:26,Cantina do Chef
+Dra. Emanuella Santos,Salada 4,Salada,112.72,Loja física,2025-03-16 20:50:17,Pizza Express
+Isabel Moreira,Pizza 4,Pizza,111.16,Telefone,2025-05-08 18:48:56,Cantina do Chef
+Alícia Cavalcanti,Doce 1,Doce,54.63,App,2025-04-30 15:08:55,Marmitaria Boa Vida
+Alexandre Farias,Pizza 5,Pizza,89.25,Telefone,2025-04-20 20:24:40,Marmitaria Boa Vida
+Lívia da Costa,Marmita 5,Marmita,37.31,Site,2025-01-16 03:53:22,Marmitaria Boa Vida
+Igor Souza,Marmita 2,Marmita,114.33,App,2025-02-28 01:49:40,Marmitaria Boa Vida
+Ana Vitória Jesus,Doce 1,Doce,79.38,App,2025-01-02 02:25:42,Cantina do Chef
+Augusto Moraes,Hamburguer 2,Hamburguer,86.57,App,2025-02-05 22:39:22,Sabor Caseiro
+Arthur Aragão,Pizza 3,Pizza,107.86,Site,2025-04-19 23:53:00,Burger Mania
+Arthur Silva,Doce 5,Doce,119.42,Loja física,2025-02-07 06:11:56,Sabor Caseiro
+Ana Vitória Moraes,Sushi 5,Sushi,57.92,Telefone,2025-03-26 19:26:38,Burger Mania
+Enzo Gabriel Pinto,Hamburguer 3,Hamburguer,20.43,App,2025-02-20 09:22:36,Cantina do Chef
+Eloah Vieira,Pizza 5,Pizza,85.69,Telefone,2025-01-28 02:37:43,Sabor Caseiro
+Nathan Fernandes,Hamburguer 4,Hamburguer,26.04,Site,2025-03-29 04:15:19,Temaki Brasil
+Agatha Gomes,Doce 4,Doce,44.0,Telefone,2025-05-01 12:39:18,Sabor Caseiro
+Matheus Farias,Sushi 2,Sushi,23.0,Telefone,2025-01-02 10:26:49,Pizza Express
+Maria Clara Freitas,Sushi 2,Sushi,92.51,Site,2025-03-24 22:22:58,Temaki Brasil
+Bárbara Fogaça,Pizza 1,Pizza,95.78,App,2025-04-08 21:52:37,Sabor Caseiro
+Caio Pires,Salada 5,Salada,110.84,Telefone,2025-04-08 06:44:37,Marmitaria Boa Vida
+Fernanda Silva,Salada 3,Salada,109.59,Telefone,2025-04-06 06:49:23,Temaki Brasil
+Melissa Moreira,Doce 3,Doce,81.47,Site,2025-03-10 22:57:58,Marmitaria Boa Vida
+Elisa Viana,Doce 3,Doce,82.83,App,2025-01-01 03:13:07,Sabor Caseiro
+Gabriela Costela,Doce 2,Doce,97.06,Loja física,2025-05-04 17:45:04,Cantina do Chef
+Sra. Ana Monteiro,Sushi 1,Sushi,73.85,Loja física,2025-05-11 12:29:57,Temaki Brasil
+Gabriela Monteiro,Hamburguer 1,Hamburguer,21.44,Site,2025-01-07 17:02:57,Burger Mania
+Raul Viana,Pizza 5,Pizza,110.22,App,2025-01-15 01:42:45,Sabor Caseiro
+Alana Castro,Hamburguer 5,Hamburguer,44.78,Site,2025-04-19 03:54:34,Temaki Brasil
+Dra. Eloah Nascimento,Doce 1,Doce,97.68,Telefone,2025-01-27 10:29:24,Cantina do Chef
+Dr. Paulo Dias,Doce 3,Doce,27.61,App,2025-02-01 11:29:47,Burger Mania
+Eloah Carvalho,Hamburguer 5,Hamburguer,52.68,Site,2025-01-11 13:53:41,Burger Mania
+Benjamin Sales,Sushi 4,Sushi,50.08,Telefone,2025-04-29 22:28:15,Pizza Express
+Caio Oliveira,Salada 2,Salada,17.62,Site,2025-05-12 15:16:40,Pizza Express
+Dra. Raquel Castro,Salada 5,Salada,65.1,Site,2025-04-24 14:46:10,Marmitaria Boa Vida
+Srta. Kamilly Costela,Salada 3,Salada,77.02,Loja física,2025-01-30 03:05:04,Temaki Brasil
+Maysa Costa,Sushi 3,Sushi,67.12,App,2025-01-28 18:17:41,Temaki Brasil
+Pietro Santos,Doce 3,Doce,47.7,Site,2025-03-15 21:38:12,Pizza Express
+Luigi da Paz,Pizza 3,Pizza,35.64,App,2025-04-22 18:42:04,Burger Mania
+Sr. Gustavo Henrique Moraes,Pizza 1,Pizza,19.28,App,2025-05-10 03:50:54,Burger Mania
+Stephany Cardoso,Hamburguer 1,Hamburguer,111.54,Loja física,2025-03-23 09:46:04,Pizza Express
+Isabel Ramos,Sushi 5,Sushi,23.2,Loja física,2025-05-17 08:59:24,Temaki Brasil
+Raquel Souza,Marmita 2,Marmita,36.35,Telefone,2025-02-03 06:06:22,Burger Mania
+Enrico Freitas,Doce 1,Doce,43.63,Telefone,2025-02-05 07:35:35,Marmitaria Boa Vida
+Srta. Maitê Freitas,Hamburguer 3,Hamburguer,104.71,Loja física,2025-02-07 12:55:37,Pizza Express
+Sra. Ana Carolina da Mata,Marmita 3,Marmita,28.59,Telefone,2025-05-13 06:20:38,Temaki Brasil
+Sr. Gabriel Duarte,Marmita 5,Marmita,23.71,Telefone,2025-03-05 22:55:47,Sabor Caseiro
+Ana Carolina Barros,Salada 2,Salada,102.47,Telefone,2025-03-23 09:11:36,Marmitaria Boa Vida
+Carolina Martins,Salada 4,Salada,28.94,Site,2025-02-02 10:30:43,Burger Mania
+Joaquim Fernandes,Doce 3,Doce,112.47,Telefone,2025-01-23 11:48:46,Cantina do Chef
+Diego Silva,Salada 3,Salada,40.51,Site,2025-03-31 17:02:10,Sabor Caseiro
+Maria Sophia Cunha,Pizza 5,Pizza,103.79,App,2025-05-03 14:51:24,Temaki Brasil
+Lorenzo Duarte,Marmita 3,Marmita,85.07,Telefone,2025-04-15 14:45:08,Sabor Caseiro
+Gustavo Henrique Fernandes,Sushi 1,Sushi,48.77,App,2025-02-13 03:39:00,Marmitaria Boa Vida
+Murilo Almeida,Hamburguer 3,Hamburguer,45.9,Loja física,2025-04-20 18:14:56,Cantina do Chef
+Isabel Porto,Marmita 5,Marmita,26.43,Loja física,2025-03-13 23:07:58,Burger Mania
+Pietro Nascimento,Doce 4,Doce,21.53,App,2025-03-22 03:34:57,Cantina do Chef
+Kaique Sales,Pizza 1,Pizza,51.86,App,2025-01-10 09:47:32,Marmitaria Boa Vida
+Lívia Melo,Pizza 3,Pizza,113.99,Telefone,2025-01-17 10:36:58,Pizza Express
+Kamilly Moreira,Pizza 5,Pizza,52.22,Loja física,2025-05-17 16:46:31,Temaki Brasil
+Lavínia Gonçalves,Sushi 4,Sushi,29.65,Loja física,2025-02-18 07:46:08,Marmitaria Boa Vida
+Ana Julia Rodrigues,Sushi 5,Sushi,96.76,App,2025-02-15 19:32:14,Marmitaria Boa Vida
+Carlos Eduardo Moraes,Marmita 5,Marmita,42.16,Loja física,2025-03-27 11:36:45,Pizza Express
+Vitória Cardoso,Salada 2,Salada,50.79,Loja física,2025-04-11 14:40:02,Cantina do Chef
+Guilherme Campos,Hamburguer 3,Hamburguer,116.32,Site,2025-03-08 15:00:30,Burger Mania
+Lara Vieira,Hamburguer 5,Hamburguer,63.49,Loja física,2025-03-27 06:30:00,Temaki Brasil
+Luiz Miguel Nogueira,Pizza 3,Pizza,25.58,App,2025-05-03 18:18:59,Cantina do Chef
+Milena Alves,Doce 5,Doce,98.29,Telefone,2025-04-04 22:19:42,Marmitaria Boa Vida
+Lorenzo Peixoto,Hamburguer 4,Hamburguer,118.53,App,2025-04-17 02:00:30,Pizza Express
+Bruna Gonçalves,Hamburguer 3,Hamburguer,79.25,App,2025-02-18 21:11:48,Burger Mania
+Enrico da Mata,Pizza 1,Pizza,110.93,App,2025-03-10 23:39:03,Temaki Brasil
+Antônio Ferreira,Pizza 5,Pizza,59.77,App,2025-03-20 03:12:02,Pizza Express
+Dra. Catarina Viana,Sushi 2,Sushi,68.22,Loja física,2025-01-15 15:11:27,Sabor Caseiro
+Maria Sophia Duarte,Marmita 2,Marmita,39.12,App,2025-04-30 11:07:27,Temaki Brasil
+Alana Farias,Doce 4,Doce,21.65,Loja física,2025-03-02 10:46:36,Marmitaria Boa Vida
+Davi Lucas da Rocha,Salada 1,Salada,113.18,Site,2025-03-17 06:42:27,Marmitaria Boa Vida
+Bianca Ribeiro,Marmita 2,Marmita,104.16,App,2025-01-14 07:23:08,Sabor Caseiro
+Sra. Isabella da Cunha,Pizza 3,Pizza,24.84,Site,2025-01-05 01:28:11,Pizza Express
+Rodrigo Azevedo,Doce 3,Doce,108.97,Site,2025-02-15 03:12:17,Temaki Brasil
+Marcela Teixeira,Salada 5,Salada,107.94,Loja física,2025-05-16 06:49:11,Marmitaria Boa Vida
+Elisa das Neves,Marmita 5,Marmita,91.87,App,2025-01-04 19:03:04,Temaki Brasil
+Lara Ferreira,Doce 3,Doce,106.38,App,2025-03-24 07:48:22,Cantina do Chef
+Maitê das Neves,Marmita 1,Marmita,108.86,App,2025-01-02 12:47:15,Burger Mania
+Isis Dias,Salada 4,Salada,102.16,Telefone,2025-01-26 15:25:52,Marmitaria Boa Vida
+Ian das Neves,Doce 3,Doce,55.34,Site,2025-03-22 19:02:57,Temaki Brasil
+Maria Eduarda Peixoto,Salada 3,Salada,23.16,App,2025-04-17 19:36:57,Sabor Caseiro
+Isabel Ramos,Marmita 5,Marmita,93.68,Telefone,2025-02-25 03:25:33,Cantina do Chef
+Nicolas Monteiro,Hamburguer 1,Hamburguer,23.94,Telefone,2025-02-11 18:20:14,Sabor Caseiro
+Amanda Vieira,Salada 3,Salada,56.12,Telefone,2025-04-26 00:47:36,Burger Mania
+João Barbosa,Salada 5,Salada,84.01,Telefone,2025-02-19 14:10:04,Sabor Caseiro
+Joana Rodrigues,Pizza 5,Pizza,108.09,Telefone,2025-01-25 11:17:30,Burger Mania
