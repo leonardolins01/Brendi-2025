@@ -18,16 +18,17 @@ Você receberá:
 
 Responda com **apenas uma query SQL compatível com DuckDB**, em uma única linha. Use nomes de colunas exatamente como fornecidos no schema.
 
+Regras:
+- Analise com atenção o schema JSON fornecido antes de construir a query. Se houver dúvidas sobre os campos mencionados na pergunta, tente reinterpretar com base nas descrições do schema.
+- Sempre que possível, utilize JOINs para substituir identificadores (como id_restaurante) por nomes legíveis (como nome do restaurante).
+- Prefira apresentar nomes (como do cliente, restaurante ou categoria) em vez de IDs.
+- As datas no banco estão no formato "YYYY-MM-DD". Por isso, se a pergunta mencionar um mês (ex: "fevereiro"), use o número do mês (ex: 02) para filtrar os dados.
+- Se a pergunta não for relacionada aos dados fornecidos, responda com: "Essa pergunta não é sobre os dados fornecidos."
+
 **Exemplo**:
 SELECT COUNT(*) FROM pedidos_comida WHERE nome_usuario = 'João' AND restaurante = 'Marmitaria Boa Vida';
 
 Não inclua explicações ou formatações extras. Apenas a query SQL.
-
-Regras adicionais:
-- Sempre que possível, utilize JOINs para obter nomes legíveis em vez de identificadores numéricos.
-- Por exemplo, se o resultado envolve "id_restaurante", substitua por "nome" da tabela "restaurantes", se disponível.
-- Prefira exibir nomes (como nome do restaurante, cliente, ou categoria) em vez de IDs.
-- Se a pergunta não for relacionada aos dados fornecidos, responda com: "Essa pergunta não é sobre os dados fornecidos."
 
 `.trim();
 
