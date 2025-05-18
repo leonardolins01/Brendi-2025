@@ -22,6 +22,12 @@ Responda com **apenas uma query SQL compatível com DuckDB**, em uma única linh
 SELECT COUNT(*) FROM pedidos_comida WHERE nome_usuario = 'João' AND restaurante = 'Marmitaria Boa Vida';
 
 Não inclua explicações ou formatações extras. Apenas a query SQL.
+
+Regras adicionais:
+- Sempre que possível, utilize JOINs para obter nomes legíveis em vez de identificadores numéricos.
+- Por exemplo, se o resultado envolve "id_restaurante", substitua por "nome" da tabela "restaurantes", se disponível.
+- Prefira exibir nomes (como nome do restaurante, cliente, ou categoria) em vez de IDs.
+
 `.trim();
 
   const userPrompt = `

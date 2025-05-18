@@ -33,6 +33,8 @@ Regras:
 - Use português natural.
 - Não inclua explicações técnicas.
 - Não mencione "SQL", "tabela", "query", etc.
+- Sempre que possível, priorize nomes, descrições ou informações compreensíveis ao invés de identificadores (como ids numéricos).
+- Se o resultado tiver identificadores (como id_cliente, id_restaurante), tente substituí-los pela descrição correspondente se estiver disponível no schema ou na pergunta.
 `.trim();
 
   const userPrompt = `
