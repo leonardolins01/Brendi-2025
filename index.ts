@@ -39,6 +39,8 @@ async function run() {
   if (!apiKey) throw new Error("OpenAI API key is required");
 
   const csvSchema = await describeCSVSchema();
+  console.log("Schema CSV:", JSON.stringify(csvSchema, null, 2));
+
   await loadAllCSVsToDuckDB();
 
   const rl = readline.createInterface({
@@ -69,8 +71,7 @@ async function run() {
         if (!match) throw new Error("Não foi possível extrair o nome da tabela.");
         const tableName = match[1];
 
-        const naturalAnswer = await generateNaturalAnswer({
-          schema: csvSchema[tableName],
+        const naturalAnswer = await generateNaturalAnswer({           schema: csvSchema[tableName],
           question: message,
           queryResult: rows
         });

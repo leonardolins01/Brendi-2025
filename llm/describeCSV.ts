@@ -38,6 +38,7 @@ utilizando o nome do arquivo (sem extensão) como chave, e mapeando cada coluna 
 Regras:
 - Use o nome do arquivo (sem ".csv") como chave da tabela.
 - Para cada coluna, forneça uma descrição curta e direta do que ela representa.
+- As datas devem ser formatadas como YYYY-MM-DD, coloque isso na explicação.
 - A saída deve ser um único JSON válido e bem formatado, sem explicações extras.
 `.trim();
 
