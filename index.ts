@@ -39,9 +39,11 @@ async function run() {
   if (!apiKey) throw new Error("OpenAI API key is required");
 
   const csvSchema = await describeCSVSchema();
-  console.log("Schema CSV:", JSON.stringify(csvSchema, null, 2));
+  // console.log("Schema CSV:", JSON.stringify(csvSchema, null, 2));
 
   await loadAllCSVsToDuckDB();
+
+  console.log("🔍 Seu assistente de dados está no ar 🚀");
 
   const rl = readline.createInterface({
     input: process.stdin,
@@ -57,6 +59,12 @@ async function run() {
 
       try {
         const sql = await generateQuery({ schema: csvSchema, question: message });
+
+        if (sql === "erro") {
+          console.log("Infelizmente, não posso te ajudar com isso. Tente reformular sua pergunta com base nos dados.");
+          return readUserInput();
+        }
+
 
         const db = getDuckDB();
         const conn = db.connect();

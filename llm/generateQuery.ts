@@ -27,6 +27,7 @@ Regras adicionais:
 - Sempre que possível, utilize JOINs para obter nomes legíveis em vez de identificadores numéricos.
 - Por exemplo, se o resultado envolve "id_restaurante", substitua por "nome" da tabela "restaurantes", se disponível.
 - Prefira exibir nomes (como nome do restaurante, cliente, ou categoria) em vez de IDs.
+- Se a pergunta não for relacionada aos dados fornecidos, responda com: "Essa pergunta não é sobre os dados fornecidos."
 
 `.trim();
 
@@ -44,5 +45,15 @@ Pergunta: ${question}
     maxTokens: 300
   });
 
-  return text.trim().replace(/```sql|```/g, ''); // limpa blocos de código se vierem
+  const cleaned = text.trim().replace(/```sql|```/g, ''); // limpa blocos de código se vierem
+  const lower = cleaned.toLowerCase();
+  if (
+    lower.includes("essa pergunta não é sobre os dados fornecidos") ||
+    !lower.includes("select") ||
+    !lower.includes("from")
+  ) {
+    return "erro";
+  }
+
+  return cleaned
 }

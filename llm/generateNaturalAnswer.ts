@@ -17,7 +17,11 @@ export async function generateNaturalAnswer({
   schema: Record<string, string>;
   question: string;
   queryResult: any[];
+
 }): Promise<string> {
+  if (!queryResult || queryResult.length === 0) {
+    return 'Infelizmente, não sou capaz de te ajudar com essa pergunta.';
+  }
   const systemPrompt = `
 Você é um assistente que ajuda o usuário a entender resultados de dados.
 
