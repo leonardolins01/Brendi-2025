@@ -1,0 +1,41 @@
+id,id_restaurante,nome,valor,categoria
+1,1,Feijoada Completa,29.90,marmita
+2,1,Strogonoff de Frango,24.50,marmita
+3,1,Carne Assada com Purê,27.00,marmita
+4,1,Filé de Frango Grelhado,23.00,marmita
+5,1,Picadinho de Carne,26.50,marmita
+6,1,Escondidinho de Carne,25.90,marmita
+7,1,Lentilha com Arroz e Ovo,19.00,marmita
+8,1,Salada com Frango,21.00,leve
+9,2,Burger Artesanal,22.00,hamburger
+10,2,Cheeseburger,19.90,hamburger
+11,2,Burger Bacon,24.00,hamburger
+12,2,Fritas com Cheddar,12.50,acompanhamento
+13,3,Macarrão à Bolonhesa,21.50,massas
+14,3,Lasanha de Frango,26.00,massas
+15,3,Nhoque ao Sugo,20.90,massas
+16,4,Yakisoba de Carne,27.00,oriental
+17,4,Frango Xadrez,25.50,oriental
+18,4,Tempurá de Legumes,18.00,oriental
+19,5,Sushi 10 peças,32.90,sushi
+20,5,Temaki Salmão,29.00,sushi
+21,5,Combinado Especial,49.90,sushi
+22,6,Bife Acebolado,23.00,marmita
+23,6,Carne de Panela,25.00,marmita
+24,6,Frango à Parmegiana,27.90,marmita
+25,7,Coxinha Grande,8.00,salgado
+26,7,Pastel de Queijo,7.50,salgado
+27,7,Kibe Recheado,9.00,salgado
+28,7,Empada de Frango,7.00,salgado
+29,8,Pizza Mussarela,34.90,pizza
+30,8,Pizza Calabresa,36.00,pizza
+31,8,Pizza Quatro Queijos,37.90,pizza
+32,8,Pizza Portuguesa,38.50,pizza
+33,9,Tapioca de Frango,14.00,tapioca
+34,9,Tapioca Doce,12.00,tapioca
+35,9,Tapioca Queijo com Coco,13.50,tapioca
+36,10,Prato Executivo,19.90,marmita
+37,10,Salada Completa,17.00,leve
+38,10,Omelete com Arroz,16.00,leve
+39,10,Wrap de Frango,18.50,leve
+40,10,Sopa de Legumes,15.00,leve

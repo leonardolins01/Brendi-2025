@@ -1,101 +1,101 @@
-nome_usuario,pedido,categoria,preco,meio_pedido,data_pedido,restaurante
-Heitor Rezende,Sushi 3,Sushi,20.31,App,2025-05-08 09:19:39,Marmitaria Boa Vida
-Sr. Kaique Vieira,Sushi 4,Sushi,93.85,App,2025-05-03 20:54:25,Cantina do Chef
-Vitor Gabriel Rodrigues,Salada 5,Salada,87.49,App,2025-04-03 22:29:36,Marmitaria Boa Vida
-Lucca Moreira,Pizza 5,Pizza,36.94,Loja física,2025-05-08 09:54:52,Pizza Express
-Stephany Duarte,Pizza 5,Pizza,60.63,Site,2025-05-08 00:09:47,Pizza Express
-Maria Vitória Porto,Salada 5,Salada,20.49,Loja física,2025-04-17 00:08:04,Temaki Brasil
-Alexandre da Costa,Pizza 2,Pizza,70.93,Telefone,2025-01-16 21:04:13,Burger Mania
-Vicente Souza,Salada 2,Salada,39.81,Telefone,2025-04-17 09:48:01,Marmitaria Boa Vida
-Juliana Farias,Salada 4,Salada,62.25,Loja física,2025-04-11 08:17:25,Pizza Express
-Elisa Santos,Pizza 5,Pizza,46.73,Telefone,2025-04-21 22:36:32,Temaki Brasil
-Cauã Rezende,Marmita 1,Marmita,18.92,Telefone,2025-04-26 16:48:26,Cantina do Chef
-Dra. Emanuella Santos,Salada 4,Salada,112.72,Loja física,2025-03-16 20:50:17,Pizza Express
-Isabel Moreira,Pizza 4,Pizza,111.16,Telefone,2025-05-08 18:48:56,Cantina do Chef
-Alícia Cavalcanti,Doce 1,Doce,54.63,App,2025-04-30 15:08:55,Marmitaria Boa Vida
-Alexandre Farias,Pizza 5,Pizza,89.25,Telefone,2025-04-20 20:24:40,Marmitaria Boa Vida
-Lívia da Costa,Marmita 5,Marmita,37.31,Site,2025-01-16 03:53:22,Marmitaria Boa Vida
-Igor Souza,Marmita 2,Marmita,114.33,App,2025-02-28 01:49:40,Marmitaria Boa Vida
-Ana Vitória Jesus,Doce 1,Doce,79.38,App,2025-01-02 02:25:42,Cantina do Chef
-Augusto Moraes,Hamburguer 2,Hamburguer,86.57,App,2025-02-05 22:39:22,Sabor Caseiro
-Arthur Aragão,Pizza 3,Pizza,107.86,Site,2025-04-19 23:53:00,Burger Mania
-Arthur Silva,Doce 5,Doce,119.42,Loja física,2025-02-07 06:11:56,Sabor Caseiro
-Ana Vitória Moraes,Sushi 5,Sushi,57.92,Telefone,2025-03-26 19:26:38,Burger Mania
-Enzo Gabriel Pinto,Hamburguer 3,Hamburguer,20.43,App,2025-02-20 09:22:36,Cantina do Chef
-Eloah Vieira,Pizza 5,Pizza,85.69,Telefone,2025-01-28 02:37:43,Sabor Caseiro
-Nathan Fernandes,Hamburguer 4,Hamburguer,26.04,Site,2025-03-29 04:15:19,Temaki Brasil
-Agatha Gomes,Doce 4,Doce,44.0,Telefone,2025-05-01 12:39:18,Sabor Caseiro
-Matheus Farias,Sushi 2,Sushi,23.0,Telefone,2025-01-02 10:26:49,Pizza Express
-Maria Clara Freitas,Sushi 2,Sushi,92.51,Site,2025-03-24 22:22:58,Temaki Brasil
-Bárbara Fogaça,Pizza 1,Pizza,95.78,App,2025-04-08 21:52:37,Sabor Caseiro
-Caio Pires,Salada 5,Salada,110.84,Telefone,2025-04-08 06:44:37,Marmitaria Boa Vida
-Fernanda Silva,Salada 3,Salada,109.59,Telefone,2025-04-06 06:49:23,Temaki Brasil
-Melissa Moreira,Doce 3,Doce,81.47,Site,2025-03-10 22:57:58,Marmitaria Boa Vida
-Elisa Viana,Doce 3,Doce,82.83,App,2025-01-01 03:13:07,Sabor Caseiro
-Gabriela Costela,Doce 2,Doce,97.06,Loja física,2025-05-04 17:45:04,Cantina do Chef
-Sra. Ana Monteiro,Sushi 1,Sushi,73.85,Loja física,2025-05-11 12:29:57,Temaki Brasil
-Gabriela Monteiro,Hamburguer 1,Hamburguer,21.44,Site,2025-01-07 17:02:57,Burger Mania
-Raul Viana,Pizza 5,Pizza,110.22,App,2025-01-15 01:42:45,Sabor Caseiro
-Alana Castro,Hamburguer 5,Hamburguer,44.78,Site,2025-04-19 03:54:34,Temaki Brasil
-Dra. Eloah Nascimento,Doce 1,Doce,97.68,Telefone,2025-01-27 10:29:24,Cantina do Chef
-Dr. Paulo Dias,Doce 3,Doce,27.61,App,2025-02-01 11:29:47,Burger Mania
-Eloah Carvalho,Hamburguer 5,Hamburguer,52.68,Site,2025-01-11 13:53:41,Burger Mania
-Benjamin Sales,Sushi 4,Sushi,50.08,Telefone,2025-04-29 22:28:15,Pizza Express
-Caio Oliveira,Salada 2,Salada,17.62,Site,2025-05-12 15:16:40,Pizza Express
-Dra. Raquel Castro,Salada 5,Salada,65.1,Site,2025-04-24 14:46:10,Marmitaria Boa Vida
-Srta. Kamilly Costela,Salada 3,Salada,77.02,Loja física,2025-01-30 03:05:04,Temaki Brasil
-Maysa Costa,Sushi 3,Sushi,67.12,App,2025-01-28 18:17:41,Temaki Brasil
-Pietro Santos,Doce 3,Doce,47.7,Site,2025-03-15 21:38:12,Pizza Express
-Luigi da Paz,Pizza 3,Pizza,35.64,App,2025-04-22 18:42:04,Burger Mania
-Sr. Gustavo Henrique Moraes,Pizza 1,Pizza,19.28,App,2025-05-10 03:50:54,Burger Mania
-Stephany Cardoso,Hamburguer 1,Hamburguer,111.54,Loja física,2025-03-23 09:46:04,Pizza Express
-Isabel Ramos,Sushi 5,Sushi,23.2,Loja física,2025-05-17 08:59:24,Temaki Brasil
-Raquel Souza,Marmita 2,Marmita,36.35,Telefone,2025-02-03 06:06:22,Burger Mania
-Enrico Freitas,Doce 1,Doce,43.63,Telefone,2025-02-05 07:35:35,Marmitaria Boa Vida
-Srta. Maitê Freitas,Hamburguer 3,Hamburguer,104.71,Loja física,2025-02-07 12:55:37,Pizza Express
-Sra. Ana Carolina da Mata,Marmita 3,Marmita,28.59,Telefone,2025-05-13 06:20:38,Temaki Brasil
-Sr. Gabriel Duarte,Marmita 5,Marmita,23.71,Telefone,2025-03-05 22:55:47,Sabor Caseiro
-Ana Carolina Barros,Salada 2,Salada,102.47,Telefone,2025-03-23 09:11:36,Marmitaria Boa Vida
-Carolina Martins,Salada 4,Salada,28.94,Site,2025-02-02 10:30:43,Burger Mania
-Joaquim Fernandes,Doce 3,Doce,112.47,Telefone,2025-01-23 11:48:46,Cantina do Chef
-Diego Silva,Salada 3,Salada,40.51,Site,2025-03-31 17:02:10,Sabor Caseiro
-Maria Sophia Cunha,Pizza 5,Pizza,103.79,App,2025-05-03 14:51:24,Temaki Brasil
-Lorenzo Duarte,Marmita 3,Marmita,85.07,Telefone,2025-04-15 14:45:08,Sabor Caseiro
-Gustavo Henrique Fernandes,Sushi 1,Sushi,48.77,App,2025-02-13 03:39:00,Marmitaria Boa Vida
-Murilo Almeida,Hamburguer 3,Hamburguer,45.9,Loja física,2025-04-20 18:14:56,Cantina do Chef
-Isabel Porto,Marmita 5,Marmita,26.43,Loja física,2025-03-13 23:07:58,Burger Mania
-Pietro Nascimento,Doce 4,Doce,21.53,App,2025-03-22 03:34:57,Cantina do Chef
-Kaique Sales,Pizza 1,Pizza,51.86,App,2025-01-10 09:47:32,Marmitaria Boa Vida
-Lívia Melo,Pizza 3,Pizza,113.99,Telefone,2025-01-17 10:36:58,Pizza Express
-Kamilly Moreira,Pizza 5,Pizza,52.22,Loja física,2025-05-17 16:46:31,Temaki Brasil
-Lavínia Gonçalves,Sushi 4,Sushi,29.65,Loja física,2025-02-18 07:46:08,Marmitaria Boa Vida
-Ana Julia Rodrigues,Sushi 5,Sushi,96.76,App,2025-02-15 19:32:14,Marmitaria Boa Vida
-Carlos Eduardo Moraes,Marmita 5,Marmita,42.16,Loja física,2025-03-27 11:36:45,Pizza Express
-Vitória Cardoso,Salada 2,Salada,50.79,Loja física,2025-04-11 14:40:02,Cantina do Chef
-Guilherme Campos,Hamburguer 3,Hamburguer,116.32,Site,2025-03-08 15:00:30,Burger Mania
-Lara Vieira,Hamburguer 5,Hamburguer,63.49,Loja física,2025-03-27 06:30:00,Temaki Brasil
-Luiz Miguel Nogueira,Pizza 3,Pizza,25.58,App,2025-05-03 18:18:59,Cantina do Chef
-Milena Alves,Doce 5,Doce,98.29,Telefone,2025-04-04 22:19:42,Marmitaria Boa Vida
-Lorenzo Peixoto,Hamburguer 4,Hamburguer,118.53,App,2025-04-17 02:00:30,Pizza Express
-Bruna Gonçalves,Hamburguer 3,Hamburguer,79.25,App,2025-02-18 21:11:48,Burger Mania
-Enrico da Mata,Pizza 1,Pizza,110.93,App,2025-03-10 23:39:03,Temaki Brasil
-Antônio Ferreira,Pizza 5,Pizza,59.77,App,2025-03-20 03:12:02,Pizza Express
-Dra. Catarina Viana,Sushi 2,Sushi,68.22,Loja física,2025-01-15 15:11:27,Sabor Caseiro
-Maria Sophia Duarte,Marmita 2,Marmita,39.12,App,2025-04-30 11:07:27,Temaki Brasil
-Alana Farias,Doce 4,Doce,21.65,Loja física,2025-03-02 10:46:36,Marmitaria Boa Vida
-Davi Lucas da Rocha,Salada 1,Salada,113.18,Site,2025-03-17 06:42:27,Marmitaria Boa Vida
-Bianca Ribeiro,Marmita 2,Marmita,104.16,App,2025-01-14 07:23:08,Sabor Caseiro
-Sra. Isabella da Cunha,Pizza 3,Pizza,24.84,Site,2025-01-05 01:28:11,Pizza Express
-Rodrigo Azevedo,Doce 3,Doce,108.97,Site,2025-02-15 03:12:17,Temaki Brasil
-Marcela Teixeira,Salada 5,Salada,107.94,Loja física,2025-05-16 06:49:11,Marmitaria Boa Vida
-Elisa das Neves,Marmita 5,Marmita,91.87,App,2025-01-04 19:03:04,Temaki Brasil
-Lara Ferreira,Doce 3,Doce,106.38,App,2025-03-24 07:48:22,Cantina do Chef
-Maitê das Neves,Marmita 1,Marmita,108.86,App,2025-01-02 12:47:15,Burger Mania
-Isis Dias,Salada 4,Salada,102.16,Telefone,2025-01-26 15:25:52,Marmitaria Boa Vida
-Ian das Neves,Doce 3,Doce,55.34,Site,2025-03-22 19:02:57,Temaki Brasil
-Maria Eduarda Peixoto,Salada 3,Salada,23.16,App,2025-04-17 19:36:57,Sabor Caseiro
-Isabel Ramos,Marmita 5,Marmita,93.68,Telefone,2025-02-25 03:25:33,Cantina do Chef
-Nicolas Monteiro,Hamburguer 1,Hamburguer,23.94,Telefone,2025-02-11 18:20:14,Sabor Caseiro
-Amanda Vieira,Salada 3,Salada,56.12,Telefone,2025-04-26 00:47:36,Burger Mania
-João Barbosa,Salada 5,Salada,84.01,Telefone,2025-02-19 14:10:04,Sabor Caseiro
-Joana Rodrigues,Pizza 5,Pizza,108.09,Telefone,2025-01-25 11:17:30,Burger Mania
+id,data,id_restaurante,id_cardapio,id_cliente,valor,source,status
+1,2025-04-02,2,9,9,22.0,site,preparando
+2,2025-04-13,2,9,2,22.0,whatsapp,preparando
+3,2025-03-21,2,9,2,22.0,app,entregue
+4,2025-03-01,2,9,8,22.0,whatsapp,entregue
+5,2025-01-27,2,9,5,22.0,app,entregue
+6,2025-01-02,2,9,6,22.0,app,preparando
+7,2025-03-03,2,9,3,22.0,site,saiu para entrega
+8,2025-03-20,2,9,6,22.0,whatsapp,saiu para entrega
+9,2025-02-18,2,9,1,22.0,app,saiu para entrega
+10,2025-02-03,2,9,1,22.0,whatsapp,entregue
+11,2025-04-25,2,9,8,22.0,whatsapp,entregue
+12,2025-03-08,2,9,2,22.0,app,saiu para entrega
+13,2025-01-27,2,9,7,22.0,app,saiu para entrega
+14,2025-01-12,2,9,8,22.0,site,saiu para entrega
+15,2025-01-04,2,9,3,22.0,whatsapp,entregue
+16,2025-01-22,1,1,3,29.9,whatsapp,preparando
+17,2025-02-21,1,2,6,24.5,site,saiu para entrega
+18,2025-04-14,1,3,10,27.0,app,saiu para entrega
+19,2025-04-15,1,4,8,23.0,app,saiu para entrega
+20,2025-01-23,1,5,5,26.5,whatsapp,entregue
+21,2025-01-29,1,6,2,25.9,site,entregue
+22,2025-03-30,1,7,1,19.0,site,saiu para entrega
+23,2025-01-07,1,8,9,21.0,whatsapp,entregue
+24,2025-03-12,2,10,5,19.9,app,entregue
+25,2025-04-10,2,11,6,24.0,whatsapp,preparando
+26,2025-04-13,2,12,8,12.5,app,entregue
+27,2025-03-22,3,13,7,21.5,whatsapp,entregue
+28,2025-04-18,3,14,5,26.0,app,saiu para entrega
+29,2025-02-27,3,15,5,20.9,app,entregue
+30,2025-01-03,4,16,10,27.0,whatsapp,entregue
+31,2025-02-17,4,17,9,25.5,whatsapp,preparando
+32,2025-04-20,4,18,8,18.0,site,saiu para entrega
+33,2025-04-06,5,19,9,32.9,whatsapp,entregue
+34,2025-01-12,5,20,1,29.0,app,saiu para entrega
+35,2025-02-07,5,21,9,49.9,whatsapp,entregue
+36,2025-03-09,6,22,8,23.0,app,entregue
+37,2025-04-01,6,23,6,25.0,site,entregue
+38,2025-02-27,6,24,9,27.9,whatsapp,preparando
+39,2025-01-20,7,25,1,8.0,whatsapp,saiu para entrega
+40,2025-03-21,7,26,5,7.5,app,preparando
+41,2025-01-16,7,27,3,9.0,site,entregue
+42,2025-04-17,7,28,5,7.0,app,entregue
+43,2025-04-08,8,29,9,34.9,app,preparando
+44,2025-03-25,8,30,5,36.0,site,preparando
+45,2025-02-22,8,31,9,37.9,app,saiu para entrega
+46,2025-02-10,8,32,1,38.5,whatsapp,entregue
+47,2025-03-25,9,33,1,14.0,site,saiu para entrega
+48,2025-03-26,9,34,3,12.0,app,preparando
+49,2025-02-19,9,35,9,13.5,app,entregue
+50,2025-02-26,10,36,10,19.9,whatsapp,saiu para entrega
+51,2025-03-30,10,37,4,17.0,site,saiu para entrega
+52,2025-02-12,10,38,10,16.0,whatsapp,saiu para entrega
+53,2025-02-01,10,39,7,18.5,site,preparando
+54,2025-04-18,10,40,3,15.0,app,entregue
+55,2025-02-08,5,19,1,32.9,site,preparando
+56,2025-03-25,10,40,7,15.0,app,entregue
+57,2025-03-13,2,11,2,24.0,whatsapp,entregue
+58,2025-03-24,7,26,7,7.5,app,entregue
+59,2025-01-27,1,3,2,27.0,app,saiu para entrega
+60,2025-02-01,5,19,6,32.9,site,entregue
+61,2025-01-26,1,5,10,26.5,site,entregue
+62,2025-04-09,8,31,5,37.9,site,preparando
+63,2025-03-03,1,2,7,24.5,app,saiu para entrega
+64,2025-02-20,10,39,10,18.5,site,preparando
+65,2025-03-08,1,1,5,29.9,app,saiu para entrega
+66,2025-03-07,2,10,9,19.9,app,saiu para entrega
+67,2025-04-23,1,8,3,21.0,site,preparando
+68,2025-02-27,4,17,7,25.5,app,entregue
+69,2025-03-23,3,14,5,26.0,site,preparando
+70,2025-02-26,3,13,2,21.5,app,entregue
+71,2025-02-16,7,26,1,7.5,site,preparando
+72,2025-04-23,9,33,4,14.0,whatsapp,entregue
+73,2025-02-12,10,38,2,16.0,site,entregue
+74,2025-02-10,5,21,7,49.9,site,saiu para entrega
+75,2025-02-24,8,32,5,38.5,app,saiu para entrega
+76,2025-04-25,6,22,4,23.0,app,entregue
+77,2025-01-16,1,1,9,29.9,whatsapp,saiu para entrega
+78,2025-01-05,6,23,9,25.0,whatsapp,preparando
+79,2025-03-29,9,34,8,12.0,app,preparando
+80,2025-02-25,3,14,4,26.0,site,entregue
+81,2025-02-09,6,24,1,27.9,app,saiu para entrega
+82,2025-01-08,2,9,4,22.0,whatsapp,preparando
+83,2025-03-25,1,8,5,21.0,whatsapp,entregue
+84,2025-02-05,2,11,7,24.0,app,saiu para entrega
+85,2025-01-11,9,35,2,13.5,whatsapp,saiu para entrega
+86,2025-04-15,8,30,2,36.0,whatsapp,entregue
+87,2025-01-10,1,3,10,27.0,app,saiu para entrega
+88,2025-03-29,1,5,8,26.5,site,preparando
+89,2025-02-12,10,40,7,15.0,whatsapp,preparando
+90,2025-02-15,6,23,2,25.0,app,saiu para entrega
+91,2025-01-10,8,32,6,38.5,app,preparando
+92,2025-04-28,4,18,10,18.0,whatsapp,preparando
+93,2025-04-21,7,28,1,7.0,whatsapp,saiu para entrega
+94,2025-02-16,9,34,10,12.0,app,entregue
+95,2025-01-31,7,28,9,7.0,whatsapp,preparando
+96,2025-02-11,8,30,2,36.0,site,preparando
+97,2025-02-18,5,19,7,32.9,whatsapp,entregue
+98,2025-02-25,6,23,2,25.0,app,saiu para entrega
+99,2025-02-19,5,21,8,49.9,app,preparando
+100,2025-03-08,8,30,8,36.0,whatsapp,entregue
